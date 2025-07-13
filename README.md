@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGB2pk6Oep2VA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718177617442?e=1742428800&v=beta&t=dOTy7ipev7JLjQMczylv9DHw0fC7aypStfk31wbiyOo)
 <h1 align="center">Hi 👋, I'm Siddharth Chhoria</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">SDE intern</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=data%20scientist&imgurl=https%3A%2F%2Fwww.cio.com%2Fwp-content%2Fuploads%2F2024%2F12%2F230532-0-24925600-1733475745-data_science_classes-100682563-orig.jpg%3Fquality%3D50%26strip%3Dall&imgrefurl=https%3A%2F%2Fwww.cio.com%2Farticle%2F230532%2Fwhat-is-a-data-scientist-a-key-data-analytics-role-and-a-lucrative-career.html&docid=cP4-JBK4DHZRFM&tbnid=b25ftxRPx5DiBM&vet=12ahUKEwjM2rz1xfiKAxUGzjgGHWsMOLIQM3oECBcQAA..i&w=2123&h=1412&hcb=2&ved=2ahUKEwjM2rz1xfiKAxUGzjgGHWsMOLIQM3oECBcQAA">
 
 
@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dexterchhoria" alt="dexterchhoria" /></a> </p>
 
-- 🌱 I’m currently learning **Gen AI**
-
-- 💬 Ask me about **ML,NLP,DL**
+- 
 
 - 📫 How to reach me **siddharthchhoria28@gmail.com**
 
